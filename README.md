@@ -1,6 +1,6 @@
 # xml-gen-fee
 
-Este paquete genera documentos xml en base las normas de SUNAT.
+Paquete de código abierto para facilitar y mejorar la generación y creación de documentos xml en base las normas de SUNAT. Para generar Boletas de venta, Facturas, Notas de debito | Credito etc.
 
 ## Instalar:
 
